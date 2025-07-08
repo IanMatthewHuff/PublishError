@@ -10,5 +10,5 @@ questionGroups:
         content: ""
         options:
           - id: "1"
-            value: ""
+            value: asdf
             isCorrect: true
