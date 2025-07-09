@@ -7,7 +7,7 @@ questionGroups:
     questions:
       - id: "1"
         type: string
-        content: ""
+        content: asdf
         options:
           - id: "1"
             value: asdf
